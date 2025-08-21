@@ -1,3 +1,4 @@
+
 html {
   font-size: 62.5%;
 
@@ -10,7 +11,7 @@ body {
   font-family: "Montserrat", sans-serif;
   text-align: center;
   scroll-behavior: smooth;
-  background-color: #f1f1f1
+  background-color: #212529
 }
 
 /* Scrollbar */
@@ -22,8 +23,8 @@ body {
   background: #212529;
 }
 ::-webkit-scrollbar-thumb {
-  background: $light-grey;
+  background: white;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: $primary-color;
+  background: gray;
 }
